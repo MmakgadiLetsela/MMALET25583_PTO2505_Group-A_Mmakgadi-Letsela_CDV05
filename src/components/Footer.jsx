@@ -3,7 +3,7 @@
 
 export default function Footer () {
     return (
-        <footer className="footer">
+        <footer className="app-footer">
             <div className="container">
                 <p>&copy; 2024 Mmakgadi Letsela. All rights reserved.</p>
                 <div className="social-links">

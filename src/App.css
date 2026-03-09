@@ -6,7 +6,7 @@
 
 
 /* Footer Styles*/
-.footer{
+.app-footer{
   background-color: lightpink;
   padding: 0.5rem;
   font-size: 1.25rem;
@@ -16,5 +16,17 @@
 a{
   color: black;
   text-decoration: none;
+}
+
+/* Header Styles*/
+.app-header{
+  background-color: lightpink;
+  padding: 1rem;
+  font-size: 2rem;
+}
+
+li{
+  list-style: none;
+  margin-bottom: 0.75rem;
 }
 
