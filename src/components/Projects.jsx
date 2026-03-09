@@ -1,5 +1,6 @@
 
-
+import kanbanImage from '../assets/kanban-image.png';
+import podcastsImage from '../assets/podcasts-image.png';
 
 
 export default function Projects() {
@@ -11,7 +12,7 @@ export default function Projects() {
             description: "A web application that allows users to manage their tasks using a Kanban board. Users can create, edit, and delete tasks, as well as move them between different columns (e.g., To Do, In Progress, Done).",
             technologies: ["Javascript", "HTML", "CSS"],
             githubLink: "https://github.com/MmakgadiLetsela/MMALET25583_FTO2506_Group-B_Mmakgadi-Letsela_JSLPP.git",
-            image: "../assets/kanban-image.png",
+            image: kanbanImage,
 
         },
 
@@ -21,7 +22,7 @@ export default function Projects() {
             description: "A responsive landing page for a podcast, built using React. The page includes sections for the podcast's description, episodes, and the image.",
             technologies: ["React", "HTML", "CSS"],
             githubLink: "https://github.com/MmakgadiLetsela/MMALET25583_PTO2505_Group_A_Mmakgadi-Letsela_DJS03.git",
-            image: "../assets/podcasts-image.png",
+            image: podcastsImage,
         }
     ]
  
