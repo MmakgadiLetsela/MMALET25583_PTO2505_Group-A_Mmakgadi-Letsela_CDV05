@@ -24,10 +24,10 @@ export default function Projects() {
             image: "./assets/podcast-landing-page.png",
         }
     ]
- }
+ 
 
  return(
-    <section id="projects" classname="projects">
+    <section id="projects" className="projects">
         <div className="container">
             <h2>My Projects</h2>
             <div className="projects-grid">
@@ -46,3 +46,4 @@ export default function Projects() {
         </div>
     </section>
  )
+}

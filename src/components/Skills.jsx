@@ -13,7 +13,7 @@ export default function Skills() {
         { name: 'React', level: 'Intermediate' },
         { name: 'UI/UX Design', level: 'Intermediate' },
     ]
-}
+
 
 return (
     <section id="skills" className="skills">
@@ -30,3 +30,4 @@ return (
         </div>
     </section>
 )
+}
