@@ -25,7 +25,7 @@
 }
 
 a{
-  color: black;
+  color: white;
   text-decoration: none;
 }
 
@@ -41,6 +41,11 @@ li{
   list-style: none;
   margin-bottom: 0.75rem;
   font-size: 3rem;
+}
+
+.app-title{
+  text-align: left;
+  margin-left: .9375rem;
 }
 
 /* HOME STYLES */

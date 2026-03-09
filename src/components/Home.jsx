@@ -14,8 +14,8 @@ export default function Home() {
                     <p>I hope to eventually become a full-stack developer and work on exciting projects that make a difference in the world.</p>
                 </div>
                 <div className="home-buttons">
-                    <a href="#projects" id="projects-btn" className="btn">View Projects</a>
-                    <a href="#contact" id="contact-btn" className="btn">Contact Me</a>
+                    <div><a href="#projects" id="projects-btn" className="btn">View Projects</a></div>
+                    <div><a href="#contact" id="contact-btn" className="btn">Contact Me</a></div>
                 </div>
             </div>
             <div className="home-image">

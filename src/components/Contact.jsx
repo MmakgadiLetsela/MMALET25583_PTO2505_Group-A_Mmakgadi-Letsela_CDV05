@@ -10,7 +10,7 @@ export default function Contact () {
                     <div className="contact-item">
                         <span className="contact-icon"></span>
                         <h3>Email</h3>
-                        <p>mmakgadi.letsela@gmail.com</p>
+                        <p><a href="mailto:mmakgadi.letsela@gmail.com">mmakgadi.letsela@gmail.com</a></p>
                     </div>
                 
                     <div className="contact-item">
