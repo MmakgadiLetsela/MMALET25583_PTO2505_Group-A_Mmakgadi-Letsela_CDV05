@@ -1,15 +1,26 @@
+/* BASE STYLES*/
+
 #root {
   margin: 0;
   padding: 2rem;
   text-align: center;
+  box-sizing: border-box;
 }
 
+.container{
+  font-size: 1.5rem;
+  background-color: lightgray;
+  padding: 1rem;
+  border-radius: 5px;
+  margin: 1rem 0;
+}
 
-/* Footer Styles*/
+/* FOOTER STYLES*/
+
 .app-footer{
   background-color: lightpink;
   padding: 0.5rem;
-  font-size: 1.25rem;
+  font-size: 1.5rem;
   
 }
 
@@ -18,7 +29,8 @@ a{
   text-decoration: none;
 }
 
-/* Header Styles*/
+/* HEADER STYLES*/
+
 .app-header{
   background-color: lightpink;
   padding: 1rem;
@@ -28,5 +40,15 @@ a{
 li{
   list-style: none;
   margin-bottom: 0.75rem;
+  font-size: 3rem;
 }
 
+/* HOME STYLES */
+
+.img{
+  width: 18.75rem;
+  height: auto;
+  border-radius: 5%;
+  border-color: black;
+  border-style: solid;
+}
